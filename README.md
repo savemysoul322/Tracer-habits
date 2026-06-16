@@ -1,5 +1,5 @@
 # Tracer-habits
-Учебная практика
+Учебная  ознакомительная практика по теме: "Трекер привычек". Выполнил студент Филиппов Владислав Григорьевич, группа БИН-24-3
 # Трекер привычек — оконная версия (GUI)
 
 Кроссплатформенное настольное приложение для ежедневного учёта привычек.
@@ -47,13 +47,13 @@ python -c "import tkinter; print('tkinter OK')"
 ## Запуск
 
 ```bash
-python habit_tracker_gui.py
+python tracker-habits-final.py
 ```
 
 На некоторых системах команда называется `python3`:
 
 ```bash
-python3 habit_tracker_gui.py
+python3 tracker-habits-final.py
 ```
 
 ---
